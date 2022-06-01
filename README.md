@@ -3,7 +3,7 @@ To test the code you have several options such as:
 
 1: clone the repository on your local machine and run it, you just need to have python installed.
 - Como instalar [Python](https://realpython.com/installing-python/).
-- git clone https://github.com/Yesid4Code/TeamInternationalTestCode
+- `git clone https://github.com/Yesid4Code/TeamInternationalTestCode`
 
 2: Copy the code into your favorite code editor and run the solution.
 
